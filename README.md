@@ -12,25 +12,25 @@
 
 ---
 
-## Screenhots
+## Screenshots
 
 
 * This is a Mock-Up of the Password Generator.
 
 
-![“screenshot1”](./assets/images/03-javascript-homework-demo.png)
+![“screenshot1”](./Assets/images/03-javascript-homework-demo.png)
 
 
 * This is a screenshot of the created GitHub Repository.
 
 
-![“screenshot2”](./assets/images/screenshot2.png)
+![“screenshot2”](./Assets/images/screenshot2.png)
 
 
 * This is a screenshot of my updated github with the files updated.
 
 
-![“screenshot3”](./assets/images/screenshot3.png)
+![“screenshot3”](./Assets/images/screenshot3.png)
 
 
 ---
